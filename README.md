@@ -24,6 +24,5 @@ An Object-Oriented Programming (OOP) based C++ project that simulates an automat
   
 ![setentry](https://github.com/user-attachments/assets/55765959-a814-4639-95fb-5b7a91140b68)
 
-
 - **Exit Confirmation Screen**  
  ![slot-assigned](https://github.com/user-attachments/assets/275adcbb-3881-4295-8156-567e2b30977c)
